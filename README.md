@@ -28,7 +28,7 @@ $ cd server
 $ yarn & yarn start
 ```
 
-##### I have followed this tutorial (https://www.youtube.com/watch?v=lKKsjpH09dU&t=66s) and create this example. Here I have used typescript instead of Javascript.
+##### I followed this tutorial (https://www.youtube.com/watch?v=lKKsjpH09dU&t=66s) and created this example. Here, I used TypeScript instead of JavaScript.
 
 ### Note:
     After this video tutorial Module federation is updated a lot. 
